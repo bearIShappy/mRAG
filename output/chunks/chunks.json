@@ -1,0 +1,125 @@
+[
+  {
+    "text": "Newspaper Articles 2019 Article Link",
+    "image_paths": [
+      "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\figure-1-1.jpg",
+      "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\figure-1-2.jpg"
+    ],
+    "image_caption": "Newspaper Articles 2019 Article Link",
+    "image_description": [
+      "Newspaper Articles 2019 Article Link"
+    ],
+    "metadata": {
+      "page_number": 1,
+      "paragraph_index": 0,
+      "filename": "GMMDC-Media-Articles-2019.pdf",
+      "bbox": {
+        "x1": 579.19189453125,
+        "y1": 1.030823826789856,
+        "x2": 1495.24755859375,
+        "y2": 168.54489531805098
+      },
+      "image_indices": [
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "text": "Newspaper Articles 2019",
+    "image_paths": [
+      "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\figure-2-9.jpg",
+      "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\figure-2-10.jpg"
+    ],
+    "image_caption": "Article Link",
+    "image_description": [
+      "Article Link",
+      "Newspaper Articles 2019"
+    ],
+    "metadata": {
+      "page_number": 2,
+      "paragraph_index": 1,
+      "filename": "GMMDC-Media-Articles-2019.pdf",
+      "bbox": {
+        "x1": 589.7356248755979,
+        "y1": 47.504119873046875,
+        "x2": 1494.7357503242108,
+        "y2": 130.47147401603195
+      },
+      "image_indices": [
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "text": "Article Link",
+    "image_paths": [
+      "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\figure-2-9.jpg"
+    ],
+    "image_caption": null,
+    "image_description": [],
+    "metadata": {
+      "page_number": 2,
+      "paragraph_index": 2,
+      "filename": "GMMDC-Media-Articles-2019.pdf",
+      "bbox": {
+        "x1": 590.5034790039062,
+        "y1": 167.2470703125,
+        "x2": 951.030517578125,
+        "y2": 241.93130359361734
+      },
+      "image_indices": [
+        8
+      ]
+    }
+  },
+  {
+    "text": "Newspaper Articles 2019",
+    "image_paths": [
+      "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\figure-3-14.jpg"
+    ],
+    "image_caption": "Newspaper Articles 2019",
+    "image_description": [
+      "Newspaper Articles 2019"
+    ],
+    "metadata": {
+      "page_number": 3,
+      "paragraph_index": 3,
+      "filename": "GMMDC-Media-Articles-2019.pdf",
+      "bbox": {
+        "x1": 589.7356248755979,
+        "y1": 46.13829040527344,
+        "x2": 1494.7357503242108,
+        "y2": 130.53965759277344
+      },
+      "image_indices": [
+        13
+      ]
+    }
+  },
+  {
+    "text": "Newspaper Articles 2019",
+    "image_paths": [
+      "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\figure-4-17.jpg"
+    ],
+    "image_caption": "Newspaper Articles 2019",
+    "image_description": [
+      "Newspaper Articles 2019"
+    ],
+    "metadata": {
+      "page_number": 4,
+      "paragraph_index": 4,
+      "filename": "GMMDC-Media-Articles-2019.pdf",
+      "bbox": {
+        "x1": 589.0700073242188,
+        "y1": 46.649757385253906,
+        "x2": 1494.7357503242108,
+        "y2": 130.47098601605254
+      },
+      "image_indices": [
+        16
+      ]
+    }
+  }
+]
