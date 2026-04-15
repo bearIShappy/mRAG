@@ -18,3 +18,12 @@ Thumbs.db
 
 docker-compose.yml
 src.zip
+
+# Output artifacts
+output/
+*.json
+*.dat
+*.mmap
+
+# Vector DB
+qdrant_storage/

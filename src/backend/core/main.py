@@ -120,11 +120,11 @@ These questions test your `is_above`, `is_left_of` bounding box logic. The image
 ### Category 3: Testing the Standard Text Retrieval (Deep Facts)
 These questions test the `mxbai` text model's ability to pull highly specific facts and statistics from the dense paragraphs.
 
-* **"How much did Zimbini Ntsula's maths and science marks improve, and what school does she attend?"**
+* **"How much did Zimbini Ntsula's maths and science marks improve, and what school does she attend?"** y
     * *Why it tests the system:* It tests specific entity extraction. [cite_start]The LLM should find that she attends Ndlovukazi Senior Secondary School in Komani and her marks improved by 22%[cite: 67].
-* **"According to Prof Werner Olivier, what percentage of students from their programmes go on to university?"**
+* **"According to Prof Werner Olivier, what percentage of students from their programmes go on to university?"** y
     * *Why it tests the system:* It tests statistical retrieval. [cite_start]The answer is around 50%[cite: 42].
-* **"What are the two categories that students could choose from in the Math-Art Competition?"**
+* **"What are the two categories that students could choose from in the Math-Art Competition?"** y
     * *Why it tests the system:* It tests the extraction of specific rules. [cite_start]The categories are "mathematics in manmade designs" and "nature"[cite: 130].
 
     """
