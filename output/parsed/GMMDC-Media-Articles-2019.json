@@ -1,0 +1,2805 @@
+{
+  "file": "documents\\GMMDC-Media-Articles-2019.pdf",
+  "text_elements": [
+    {
+      "type": "Paragraph",
+      "text": "Govan Mbeki Mathematics Development Centre",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 0,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 123,
+          "y1": 115,
+          "x2": 374,
+          "y2": 142
+        },
+        "image_indices": [
+          1
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Programme multiplies pupils’ success",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 1,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Nicky Willemse 8 Aug 2019",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 2,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "NCS Mathemati<s and Physi<al S<ien<e Video series",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 3,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Two years ago, Queenstown teenager Yamkela Sondlo (17) narrowly scraped through her grade 11",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 4,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 79,
+          "y1": 1560,
+          "x2": 1193,
+          "y2": 1590
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "end-of-year exams for maths and science at Nkwanca high school, obtaining 32% and 31% respectively.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 5,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 80,
+          "y1": 1700,
+          "x2": 1143,
+          "y2": 1730
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "But her final results for grade 12 last year showed a vast improvement. She obtained",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 6,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 80,
+          "y1": 1838,
+          "x2": 811,
+          "y2": 1868
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "64% for maths and 78% for science.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 7,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The turning point for Yamkela came when she was selected to be a participant in a maths and",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 8,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 79,
+          "y1": 1977,
+          "x2": 1137,
+          "y2": 2008
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "science programme using technology and blended learning run by Nelson Mandela University’s Govan Mbeki Mathematics Development Centre.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 9,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 80,
+          "y1": 2115,
+          "x2": 1169,
+          "y2": 2194
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Statistics recently released by the centre show that she was their most-improved pupil for both maths and science last year.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 10,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 79,
+          "y1": 2255,
+          "x2": 1207,
+          "y2": 2327
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“The programme helped me so much,” said Yamkela, who lives with her unemployed parents.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 11,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 80,
+          "y1": 2395,
+          "x2": 971,
+          "y2": 2425
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "But she is not the only one. Of the 330 pupils who completed the centre’s grade 12 incubation programmes in five mostly rural districts across the Eastern Cape last year 70 improved by more than 10 percentage points in both subjects. And about 80% achieved bachelor’s passes, enabling them to access university studies, despite the meagre resources in rural schools.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 12,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 80,
+          "y1": 2533,
+          "x2": 1207,
+          "y2": 2708
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The top-achieving learners received results in the 90s and one pupil, Mvuyisi Njenje, 17, from Attwell Madala High School in Mthatha, achieved 100% for maths.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 13,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 79,
+          "y1": 2815,
+          "x2": 1192,
+          "y2": 2894
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Whereas Yamkela is taking a gap year, many of her peers from the programme are attending university, including Luphelo Tshemese (17) who passed matric at Hector Petersen High School in King William’s Town with 80% for maths.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 14,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 86,
+          "y1": 2935,
+          "x2": 1158,
+          "y2": 3057
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "He is now studying civil engineering at Nelson Mandela University. “T was in a position where I thought I was dumb,” said Luphelo. “I learned that maths is not hard. You just need to understand it and practise it. I started to believe in mysel",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 15,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 87,
+          "y1": 3116,
+          "x2": 1178,
+          "y2": 3281
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "and put in the effort.”",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 16,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The centre’s selection criteria for its programmes is that pupils attend disadvantaged schools, and that they show potential.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 17,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 86,
+          "y1": 3386,
+          "x2": 1171,
+          "y2": 3458
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Newspaper Articles 2019 Article Link",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 18,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "At the end of grade 10, Luphelo was selected as a participant in one of the centre’s twa core programmes — the technology-assisted after-school peer support programme — where teachers provide tutoring to small groups of pupils at their own schools, using an offline interactive teaching and learning app called TouchTutor, installed on tablets.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 19,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1286,
+          "y1": 295,
+          "x2": 2384,
+          "y2": 463
+        },
+        "image_indices": [
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "With improved results at the end of grade 11, he was accepted for the centre’s other core programme, an intensive 17-week incubator school programme run at a central venue on Saturdays, where trained facilitators provide lessons, tutorials, weekly tests and exam revision, all linked to the TouchTutor app.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 20,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1286,
+          "y1": 569,
+          "x2": 2371,
+          "y2": 735
+        },
+        "image_indices": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“T learned to tackle problems in a different way,” said Luphelo. “I learned easy, quick methods for areas I'd been failing [in] for a year ... The tests we wrote on the tablet",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 21,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1287,
+          "y1": 797,
+          "x2": 2370,
+          "y2": 873
+        },
+        "image_indices": [
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "made us able to tackle difficult questions on the exam.”",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 22,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "TouchTutor, which has been developed and fine-tuned over the past 10 years, is an extensive digital maths and science resource that includes narrated video lessons, presentations, past exam papers and memos, self-tests with scoring and feedback, science experiments, calculator support, a glossary of terms supported by graphics in multiple languages and various other interactive features.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 23,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1287,
+          "y1": 946,
+          "x2": 2384,
+          "y2": 1116
+        },
+        "image_indices": [
+          6
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The platform is aligned with the curriculum and assessment policy statement for grades 10 to 12 and workbook guides have also been developed.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 24,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1287,
+          "y1": 1223,
+          "x2": 2328,
+          "y2": 1298
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "All learners on the programmes receive a tablet with the app, which is loaned to them from February to November, which they can use after school hours as a 24-7 personal tutor.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 25,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1286,
+          "y1": 1358,
+          "x2": 2390,
+          "y2": 1435
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "For Luphelo, one of 10 children raised by his grandmother, the incubator school programme was not just a place to gain information but a quiet space where he could focus and study. “I came home each Saturday with knowledge,” he said.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 26,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1287,
+          "y1": 1542,
+          "x2": 2384,
+          "y2": 1665
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“This model has huge value for learners with potential who are prepared to engage with self-directed learning,” said Professor Werner Olivier, director of the Govan Mbeki Mathematics Development Centre.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 27,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1287,
+          "y1": 1725,
+          "x2": 2351,
+          "y2": 1802
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“Each year, we allow those who have improved by 10% in a year in both maths and science, or achieved distinctions, to keep their tablets. Across our five project regions last year — Port Elizabeth, Duncan Village (East London), Queenstown, Mthatha and King William’s Town — more than 20% of the pupils achieved this and were able to keep their tablets.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 28,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1287,
+          "y1": 1908,
+          "x2": 2386,
+          "y2": 2079
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“Some individuals showed extraordinary improvement, which emphasises the potential of what can be achieved through our programme.”",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 29,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1293,
+          "y1": 2187,
+          "x2": 2311,
+          "y2": 2265
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The aim of both the core programmes is to help pupils from disadvantaged backgrounds obtain the marks they need to access higher education and to be successful in their studies.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 30,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1292,
+          "y1": 2326,
+          "x2": 2305,
+          "y2": 2404
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“We've seen a trend of successes over the past five years. Around 50% of all those in our programmes go to university. We’ve had some going into medicine and actuarial",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 31,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1293,
+          "y1": 2511,
+          "x2": 2386,
+          "y2": 2589
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "sciences. Many go into engineering and the sciences,” Olivier said.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 32,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "In the Port Elizabeth incubator programme, the centre’s most improved pupil in both maths and science was Onondwa Jantjies (17), who is studying towards her BSc degree in biological sciences at the University of the Witwatersrand, and is hoping to be",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 33,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1293,
+          "y1": 2698,
+          "x2": 2425,
+          "y2": 2822
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "accepted into the university’s medicine programme in her third year.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 34,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“The incubator school programme improved my chances of getting into Wits and prepared me well for university ... At my school, we had no access to science labs, but I could watch all the experiments on the tablet ... If I didn’t know something, I could just check the tablet,” she said.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 35,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1293,
+          "y1": 2931,
+          "x2": 2422,
+          "y2": 3055
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“T also love the fact that the programme is so accessible to poor kids. They paid for our transport to the incubator school programme venue and provided food. They made everything so easy for us.”",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 36,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1292,
+          "y1": 3164,
+          "x2": 2420,
+          "y2": 3242
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Olivier would like to see the model scaled up across South Africa — and has recently set up strategic partnerships with the department of basic education in different provinces.",
+      "metadata": {
+        "page_number": 1,
+        "paragraph_index": 37,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1293,
+          "y1": 3349,
+          "x2": 2390,
+          "y2": 3427
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Govan Mbeki Mathematics Development Centre",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 38,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 123,
+          "y1": 115,
+          "x2": 374,
+          "y2": 142
+        },
+        "image_indices": [
+          7
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Newspaper Articles 2019",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 39,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Saturday school bright sparks soar",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 40,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "BY HERALD REPORTER - 04 NOVEMBER 2019",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 41,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The top Grade 12 pupils in Port Elizabeth's Incubator School Programme are, front from left, first- placed Asisipho Ndinisa and her twin sister, third-placed Siphosethu, both from St Thomas Senior Secondary, and second-placed Stephanie Cronje from Linkside High. With them are, back from left, head of corporate social investment at Capitec Foundation, Neptal Khoza, science facilitator Luzuko Jama and maths facilitator Needile Konzana",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 42,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 201,
+          "y1": 1484,
+          "x2": 1243,
+          "y2": 1613
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Image: Michael Sheehan",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 43,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Starting in February, 480 grade 10 to 12 pupils from 45 schools across the Eastern Cape gave up their Saturdays to improve their maths and physical sciences skills — and it’s paying off.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 44,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 203,
+          "y1": 1737,
+          "x2": 1247,
+          "y2": 1850
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Among the Nelson Mandela Bay pupils attending the technology-driven Incubator School Programme (ISP), run annually by Nelson Mandela",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 45,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 201,
+          "y1": 1907,
+          "x2": 1215,
+          "y2": 1986
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "University's Govan Mbeki Mathematics Development Centre (GMMDC), 65%",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 46,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 203,
+          "y1": 2000,
+          "x2": 948,
+          "y2": 2029
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "of the Grade 12s showed an improvement in maths and 70% improved in science, when comparing their June results with 2018's November marks.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 47,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 201,
+          "y1": 2045,
+          "x2": 1222,
+          "y2": 2122
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "More than 60% of the Grade Ils improved in both subjects, while more than 40% of the Grade 10s improved in maths.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 48,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 218,
+          "y1": 2190,
+          "x2": 1226,
+          "y2": 2256
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“Over the past five years, the ISP has helped thousands of promising Eastern Cape learners improve their marks, and gain access to tertiary education? GMMDC head Prof Werner Olivier said.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 49,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 218,
+          "y1": 2309,
+          "x2": 1158,
+          "y2": 2418
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The top-achieving Grade 12 ISP pupil in the province was Tausiqul Islam from Mthatha High School, achieving 93% for maths and 91% for science, while the most improved pupils was Zimbini Ntsula from Ndlovukazi Senior Secondary School in Komani, whose maths and science marks in June",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 50,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 218,
+          "y1": 2471,
+          "x2": 1222,
+          "y2": 2628
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "improved by 22%, compared with last November.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 51,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "In addition to the Saturday school lectures, each pupil received an Android tablet to use as a “personal tutor” at home.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 52,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 218,
+          "y1": 2718,
+          "x2": 1222,
+          "y2": 2781
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The tablets were loaded with a GMMDC-developed app called TouchTutor®, made up of interactive digital resources, all offline and aligned with the curriculum.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 53,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 218,
+          "y1": 2835,
+          "x2": 1141,
+          "y2": 2909
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "These included video lessons, PowerPoint presentations, calculator assistance, self-tests with scoring and feedback, old national and provincial exam papers and language support in eight indigenous languages.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 54,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1327,
+          "y1": 404,
+          "x2": 2328,
+          "y2": 521
+        },
+        "image_indices": [
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Adding to the success of the 2019 ISP was the introduction of student- teacher tutors at the Port Elizabeth and Mthatha ISPs.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 55,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1327,
+          "y1": 566,
+          "x2": 2262,
+          "y2": 629
+        },
+        "image_indices": [
+          8
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "They were trained to use a small new digitalised teaching device called the GammaTutor, which includes the TouchTutor® app, and can be directly plugged into a projector, TV or any digital screen.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 56,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1327,
+          "y1": 682,
+          "x2": 2319,
+          "y2": 799
+        },
+        "image_indices": [
+          8
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“The GammatTutor added to this year’s ISP success, Olivier said.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 57,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1329,
+          "y1": 844,
+          "x2": 1888,
+          "y2": 873
+        },
+        "image_indices": [
+          8
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“We are looking forward to rolling out this new mobile teaching device to other provinces, to empower teachers to engage in teaching practices geared towards 21st century learners”",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 58,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1327,
+          "y1": 918,
+          "x2": 2300,
+          "y2": 992
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The tutors, all final-year education students at Nelson Mandela and Walter Sisulu universities, used the GammaTutor during 90-minute midweek tutorials with small groups of Grade 10 pupils at the participating schools, helping them work through challenges and deepen their understanding of maths.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 59,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1337,
+          "y1": 1088,
+          "x2": 2310,
+          "y2": 1244
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "NMU student teacher Monique Paulse, who tutored at Sanctor Secondary School in the Bay, said the tutorials provided an opportunity for pupils to ask questions and work through topics they didn't understand in class.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 60,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1337,
+          "y1": 1329,
+          "x2": 2298,
+          "y2": 1444
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“The GammatTutor helped me a lot, as we were able to find different examples on different topics quickly and easily”",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 61,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1337,
+          "y1": 1484,
+          "x2": 2220,
+          "y2": 1556
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Neptal Khoza, head of Capitec Foundation, which sponsored the Saturday school programme, said: “Capitec Foundation has adopted a teacher development approach as part of our strategy.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 62,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1337,
+          "y1": 1604,
+          "x2": 2298,
+          "y2": 1714
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“It was therefore fitting that we infuse this into the ISP programme, in partnership with the GMMDC.",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 63,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1339,
+          "y1": 1760,
+          "x2": 2250,
+          "y2": 1789
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“The aim is to support future teachers with much-needed teaching experience and access to 2Ist century teaching, while assisting high-school pupils with extra tutorials to help them perform better in maths”",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 64,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1337,
+          "y1": 1877,
+          "x2": 2318,
+          "y2": 1987
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "He said the ISP programme had helped pupils to “learn for understanding and not just to memorise”",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 65,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1337,
+          "y1": 2035,
+          "x2": 2295,
+          "y2": 2097
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“The TouchTutor® platform enables pupils to access content remotely any time, anywhere and without data costs. It enables them to learn at their own pace”",
+      "metadata": {
+        "page_number": 2,
+        "paragraph_index": 66,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1337,
+          "y1": 2149,
+          "x2": 2312,
+          "y2": 2218
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Govan Mbeki Mathematics N ewspa per Articles 201 9",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 67,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 123,
+          "y1": 86,
+          "x2": 1497,
+          "y2": 190
+        },
+        "image_indices": [
+          10
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Got a story? Phone our news desk : (041) 5047324 [y) Cormac wth son Tete news",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 68,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 129,
+          "y1": 294,
+          "x2": 545,
+          "y2": 325
+        },
+        "image_indices": [
+          10
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Create artwork inspired by mathematics",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 69,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "@ High school kids from across SA shine in unique NMU competition Bright sparks prove",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 70,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 129,
+          "y1": 778,
+          "x2": 488,
+          "y2": 796
+        },
+        "image_indices": [
+          11
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "es : : Learners from Creative Clubs, a project run by the University of the Free State's Social maths 1S an art form ewer i Te ee sets create artwork using mathematics as part of a national Math-Art FNB’s brief ‘blessing’ upsets clients",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 71,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 130,
+          "y1": 867,
+          "x2": 2258,
+          "y2": 948
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "To encourage learners to recognise mathematics in the world around them and bring it to life, the ete Reporter ara fincin he watha ine ey were ankce Gi Hgts of Danciegand Pad Grn",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 72,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 129,
+          "y1": 967,
+          "x2": 2313,
+          "y2": 1001
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "toc -pesslwit-coage | feguiclChagtrler i satersfacoNeurett, | town Pons secs huse beentenibed. — ‘Seigs hen FL scnetirgstmndudtickwt GYAN Mbeki Mathematics Development Centre (GMMDC) at Nelson Mandela University, Port Heched pplatiumaros eastern Deming maxueSped.cadten Rar win Npsbeet wig “The incrvet buavers, “So Pha acdedw Mes ee severda Now Ps fo i s launc ati : it s mus i , Siow'worstatainterde, faneeGeebiyhsctost, —uerManondsh Doon” Bakntoreweetryenders, | FntNatoma Rank FB com wer dure ied eb card wih ETON SUNS Sudeahome Bizabeth, has launched 2 national Math-Art Competition, where entrants must submit artworks putirg the Arka bettewen, Moerubsesen wom met Sete fee Gem for Pores of cheetah ara! the fighter pt femal co Wedreutay chat x trammactuma for pectuaen” “Wrut an | eppoued todo inspired by mathematics. outanetnieist catgactriceneel \"Fetinaegeée wt? “Al@ewanmreated | wssmecstomer’ omen Sinereapelogisto ee wan w pet arse The University of the Free State (UFS) and Curro Schools are some of the many partners in the tscadyeamaiemaid — Gingsvederttnew snstsinmarnase dein cahvoutmcrsendbook pis | “weaned Gatbeow- impacted coon ot: cncoummnens ead Math-Art Competition. Bloemfontein learners can drop their entries at the Social Responsibility compres Tee ea uprbcwek steguywetioge Dur canitankelgicen, | nabaanasormnccteu hay epi wektomdal Avomad saa “Treryenels Enterprises’ offices at the UFS’s South Campus. Trregpetvinentn bemmiagionmis sane Beemhan Seasteadremocmngshed | coneen-wcnnanen suade yt bes ent money tom FN 4 at the -",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 73,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 129,
+          "y1": 979,
+          "x2": 2291,
+          "y2": 1107
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "te coraptiben reabyickon Soeur Lowen tetloaion veertech Sr sheeting te eaten saan Spey ad retond peng ey The unique competition is open to learners from Grade & to 12, who can choose between two Mandkts Urevenétys Gowan “The uncertainty of schence Hidden Methernaics showed: Al de cries are os dagtey ‘i - i i i - it Mandela Levent i a hh cts categories ~ mathematics in manmade designs, or nature ~ and they can use any visual medium, reaCate Geovecr ag Gogyenencmetathe — susctercuromubencit. Menopelian At cay a including photography, drawing, painting, collage or mixed media. Ssutentespentate tattenabanppe ‘er legendas Pot Chale wnat eet + : ’ } ics in desi",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 74,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 129,
+          "y1": 1089,
+          "x2": 2309,
+          "y2": 1186
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "seen cenpeentent tp memumeses = fea amounts ‘In the ‘manmade’ category, we are looking for mathematics in designs created by humans. Here,",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 75,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 622,
+          "y1": 1158,
+          "x2": 2188,
+          "y2": 1196
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "and San core GD centro wahbida teens ‘We were thrilled at PM™Ui-ofGizaw Dancy —_ a Badges Correnor in Lina",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 76,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 189,
+          "y1": 1184,
+          "x2": 781,
+          "y2": 1227
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "learners can interpret the theme of art and maths in everyday objects such as buildings, bridges, vehices, logos, cultural symbols, decorations, and many more,” said GMMDC competition",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 77,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1503,
+          "y1": 1188,
+          "x2": 2306,
+          "y2": 1224
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "as we as the tat und scaste from bay 149628 .",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 78,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "enurtaal compenison ctv the be calibre of ‘Second wes Sibanges! Mar: Stach peoncaes esearch and coordinator, Carine Steyn.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 79,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 298,
+          "y1": 1218,
+          "x2": 1601,
+          "y2": 1256
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "taown mas-rrade lanérarta the GOO entries We sa.cd the Urmersty offehian- arrest im the comnerrinens be . , Sonchi",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 80,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 167,
+          "y1": 1236,
+          "x2": 1509,
+          "y2": 1266
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "qnscunhenahenstal received? caughManpinasicah- ono aahenain onsen In the ‘nature’ category, artworks must explore the relationship between nature and maths, for",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 81,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 294,
+          "y1": 1246,
+          "x2": 2208,
+          "y2": 1277
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "iyderes of over act ‘oun ty, whechose to drew stn The maths art beak is pat of example, mathematical patterns in flowers, animals or mountains.” —_ Siieottogn tenting seneskeaston Oe Each participant will also have to provide a written explanation outlining the link between their aceon cba aan Mipecituire cfartaet \" sscoymta'Sceace Bete artworks and maths, by describing which mathematical concept they have used, how their artwork etches aemtteiegnen ps ciaiedetct eel ted eysmeing Aenea | SERS links to the selected category, and which sources they used to design their work. nprcalwectie dbewis Sanna \"Thedpucewer Rass Genbasrpomengusaan | Sonar Each submitted artwork must be two-dimensional and A4 to A2 in size, with relief work no more Proeaedttonhiemess \"Parernndwaskanvae eMurcofsrPare ran Mite cram than 2.cm high. reveal gh khmestary Corp rece Po",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 82,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 125,
+          "y1": 1264,
+          "x2": 2319,
+          "y2": 1374
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Mishertudtceirapend n> WirserOnwer The ener Competition prizes, including tablets, cell phones and art classes, will be awarded to the top-placed",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 83,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 722,
+          "y1": 1376,
+          "x2": 2200,
+          "y2": 1414
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "me maton vse oe : Somaaid Tieupereviacnin aibsatinantechestend | Sele candidates. . . . .",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 84,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 125,
+          "y1": 1390,
+          "x2": 1602,
+          "y2": 1439
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Thecompedtion was opes College. Durban came third «he grade $109-raths in man lnyer Wo cur ceemre’s techs bJ The competition has opened in March and closes on May 3, with the top entries to be displayed at",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 85,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 145,
+          "y1": 1425,
+          "x2": 2206,
+          "y2": 1451
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "wad high school papi who with her antwork Turequlty made designs antegury were blended approach tothe wah | Same ublic art galleries. ‘sna eater aorta ts Theprade ws Pwheerin Callin Whe cfTon Mock garailearagof matin || Seat DUBE art 9 : : . cogetn \"ata ete'or ecapeyemtanrtorees Wgithed Gye Tamts ere a Winners will be announced on May 17, with a prize-giving taking place in Port Elizabeth on May 25. “Inyunrenbigsien tupQrttgteatone! tgentibeallepsinen, yuanguindssadboltonere For more information, contact: mathart@mandela.ac.za or watch the promotional video on artisdemerh tone turalsoon rashemuricalpacerms nce Sthowed by Kora Knope Tew sreund toe shits chal The YouTube: https://www.youtube.com/watch?v=rtKxp8rOr70 (keywords: Math-Art Competition ture they eeprewerand the Beks art hinamwcrt Pale Face muxcterr,of Re@hil High for lengespowserted by the Fowrth | Hheradl 2019) Cemoeninaerarmaniae 'Seamdandiuedompes Gbehettepind Geenaria teleetlurmnamcn” .",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 86,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 125,
+          "y1": 1436,
+          "x2": 2323,
+          "y2": 1542
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Tomorrow’s teachers use new technology to tutor maths and science",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 87,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "By Nieky Willemse - Feb 12,2019",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 88,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Final-year education students in Nelson Mandela Bay and Mthatha are learning how to use cutting-edge technology in real-life teaching situations.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 89,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 1779,
+          "x2": 1355,
+          "y2": 1804
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The prospective teachers from Nelson Mandela and Walter Sisulu universities are the very first “student tutors” in a new, extended technology-blended maths and science Incubator School Programme (ISP), which over the past five years has helped thousands of promising Eastern Cape learners improve their marks, and gain access to tertiary education.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 90,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 1836,
+          "x2": 1355,
+          "y2": 1919
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "If it is successful, the newly-launched “ISP and Student Teacher Tutor Programme” - piloted in Nelson Mandela Bay and Mthatha at the weekend — will be extended to other provinces.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 91,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 1951,
+          "x2": 1355,
+          "y2": 2010
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Nelson Mandela University’s Govan Mbeki Mathematics Development Centre (GMMDC) - with sponsorship from Capitec Foundation - is running the curriculum-linked programme in the two cities, providing 250 selected Grade 10| to 12 learners with extra tuition through the 16-week Saturday programme.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 92,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2008,
+          "x2": 1361,
+          "y2": 2091
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Each learner will also receive a 7\" Android tablet as a “personal tutor”. loaded with a GMMDC-developed app called TouchTutor®. which is crammed full of interactive curriculum-aligned digital resources, in the form of video lessons, PowerPoint presentations, calculator assistance, self-tests with scoring and feedback, old national and provincial exam papers and multi-language support in eight indigenous languages.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 93,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2095,
+          "x2": 1355,
+          "y2": 2206
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "And they will have the added benefit of the “student tutors”, who will provide mid-week tutoring with small groups of ——-‘“#4Son Mandeia University final-year education student Frans Louw discusses maths and science challenges with s Grade 10 learners at their respective schools, using high-tech approaches to help the learners work through maths and the learners he will be tutoring (from left) Carla Michaels, 16, Kayla Prins, 15, and Méble Loyd, 15, all from Linksid science challenges and deepen their understanding of the subjects.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 94,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2200,
+          "x2": 2364,
+          "y2": 2291
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "The student teachers are all being trained to use a small new digitalised teaching device - called the Gamma Tutor - which includes the TouchTutor® app, and can be plugged directly into a projector, TV or any digital screen. This dongle- like mini-computer without a screen, which will soon be officially released by GMMDC as anew mobile teaching device for school classrooms, will empower the student teachers to engage in professional teaching practices, geared towards 21\" century learners.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 95,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2293,
+          "x2": 1355,
+          "y2": 2405
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Tomorrow's teachers use new technology to tutor maths and science",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 96,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "At the Nelson Mandela Bay launch of the new programme on Saturday (9 February). held at the Eastcape Training Centre (ETC) in Stryandale, the student tutors, all fourth-year education students from Nelson Mandela University, couldn't wait to get started.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 97,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2463,
+          "x2": 1355,
+          "y2": 2543
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“think the learners will appreciate it a lot, having someone sit next to them, helping them to see where they're stuck,” said student tutor Frans Louw. “It will also help us to grow as teachers - especially learning how to incorporate",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 98,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2548,
+          "x2": 1355,
+          "y2": 2605
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "technology with teaching,\" Prof Werner Olivier (right), director of the Govan Mbeki Mathematics Development Gentre at Nelson Mandela Univ “There are different types of learners,\" said fellow tutor Monique Paulse. teaches final-pear education students (from left) Bangiwe Mopalala and Frans Louw, how to use an innovative ma “I'm looking forward to learning how to adjust to learners who are slower and faster [to catch on], Not all learners will teaching device — called the Gamma Tutor — to tutor learners in maths and selence.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 99,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2609,
+          "x2": 2365,
+          "y2": 2696
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "understand the first time, so you need to try different techniques.”",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 100,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“It’s an opportunity to stay up to date with the content.” said Danielle du Plessis,",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 101,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2724,
+          "x2": 850,
+          "y2": 2747
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“By tutoring, we'll be helping ourselves to learn the content and bring this across to the learners.\"",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 102,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2751,
+          "x2": 996,
+          "y2": 2777
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“Someone once said: ‘When you teach, you learn.’ I believe this new tutor component of the ISP programme will help me to learn while I'm teaching,” said Anita Rossouw.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 103,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2779,
+          "x2": 1355,
+          "y2": 2836
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“In this crucial year before getting my own classes, it will help me to develop to the fullest I possibly can.”",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 104,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2838,
+          "x2": 1073,
+          "y2": 2864
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "GMMDC director Prof Werner Olivier said: “This new programme - and the new technology - is a way to empower teachers to deal with real challenges, with the assistance of very modern mobile teaching tools and resources, which have been researched and developed over the past 10 years.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 105,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2864,
+          "x2": 1355,
+          "y2": 2949
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“It could impact the course of their professional careers as teachers.”",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 106,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Neptal Khoza, Head of Capitec Foundation, said: “We are excited about the launch of this programme in Port Elizabeth and Mthatha. By offering university teaching students an opportunity to harness their teaching/tutoring skills, we enable them access to 21 century teaching and practical experience. We believe it will improve the maths and science performance of all learners participating in the programme.\" ; : ; ; ; Learners in Nelson Mandela Bay are hopeful the programme will boost their results. Nelson Mandela University final-year students (from left) Monique Paulse. Danielle du Plessis and Anite Rossouw a Sanetor High Grade 10 learner Codi Ownhouse, 15, said: “Maths and science are a big struggle. I'm hoping this looking forward to boosting learners’ maths and sefence skills— along with their oun content knawledge in the sud programme will help me alot.” By using new teaching technalogy.",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 107,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 2981,
+          "x2": 2365,
+          "y2": 3176
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“I'm expecting higher marks and hope to learn more and know more,” said Sinazo Kafatyi, 15, a Grade 10 learner from",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 108,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 3180,
+          "x2": 1217,
+          "y2": 3206
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Grade 12 Gelvan High pupil Ruyyellen Jacobs, 17, said attending the traditional [SP over the past two years had helped",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 109,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 3234,
+          "x2": 1234,
+          "y2": 3268
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "his maths mark climb from 4744 to 854%. “I'm looking forward to this year’s ISP - I'm aiming for level 7 (over 80%) in",
+      "metadata": {
+        "page_number": 3,
+        "paragraph_index": 110,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 134,
+          "y1": 3265,
+          "x2": 1266,
+          "y2": 3291
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Govan Mbeki Mathematics Development Centre empowering young minds",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 111,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 123,
+          "y1": 115,
+          "x2": 633,
+          "y2": 192
+        },
+        "image_indices": [
+          12
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Newspaper Articles 2019",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 112,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Tom ‘ Crrow’s teac hers use new tech",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 113,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 423,
+          "y1": 299,
+          "x2": 587,
+          "y2": 372
+        },
+        "image_indices": [
+          12
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "FINAL Year education nhc dela Bay and Mthatha Cutting-edge tects",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 114,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 423,
+          "y1": 448,
+          "x2": 1002,
+          "y2": 509
+        },
+        "image_indices": [
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Students in Nelson Man",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 115,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "learners wil] = apfitect 7 are learning how to use tnt it ket,",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 116,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 659,
+          "y1": 480,
+          "x2": 1607,
+          "y2": 523
+        },
+        "image_indices": [
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "a next te ther, helping them to see whare",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 117,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1352,
+          "y1": 509,
+          "x2": 1622,
+          "y2": 548
+        },
+        "image_indices": [
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Ustlons, nology in realise me har te running the vine stuck J F will nso help us to-erage, * Dr cially learnp us tomchers, eape- The prospective teachers from Nelson Man with iachienal to incorparale techeakgey",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 118,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 423,
+          "y1": 514,
+          "x2": 1723,
+          "y2": 619
+        },
+        "image_indices": [
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "p= — Walter Sisulu universitie",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 119,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "ident tutors ina new Poche Min nded maths and scien ubator School TTorramme (ISP), which, ove : pas",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 120,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 421,
+          "y1": 629,
+          "x2": 888,
+          "y2": 704
+        },
+        "image_indices": [
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "rs, has helped fhousendect piece ee = Cape leuners improve their ma te Hn acess to tertiary education.",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 121,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 437,
+          "y1": 691,
+          "x2": 890,
+          "y2": 770
+        },
+        "image_indices": [
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "it is sucmesafial 2 newly-launched “ISP",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 122,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“There are ¢tifferent learners,\" fellow tutor Monigees Pete a ood ae ward to Iearmilng: how to aejuse icienmen eat are slower and faster [to catch On]. Not all learners will understand the first time, 6 ras feed to try different techrsiry .",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 123,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1344,
+          "y1": 613,
+          "x2": 1717,
+          "y2": 733
+        },
+        "image_indices": [
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "nied technolo- personal tutor, Joa",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 124,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "GMMDC-leveloped Which is pate lum-aligned digital f oy ideo lessons, PowerPotnt presentad calcu and = ister assistance, selests with rl aru!",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 125,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 853,
+          "y1": 663,
+          "x2": 1318,
+          "y2": 765
+        },
+        "image_indices": [
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "feedback, old national and provincial exarn pe pers and multilingual Suppor in eight indie",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 126,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 915,
+          "y1": 769,
+          "x2": 1318,
+          "y2": 823
+        },
+        "image_indices": [
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "challenges, with the",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 127,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "be extended te other (Aur Programme” wall nous languages ra ee oki Horward to Chis your's BS. Pa ee a Pov Line : and Pesourers, h _ ing for lewel Tig a inces. Student tutor, Frans Louw sald, “I think the searched uu Gevelcyed ov ateael Svensk said dace. Hamer :",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 128,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 416,
+          "y1": 805,
+          "x2": 2053,
+          "y2": 873
+        },
+        "image_indices": [
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "vow dream it, we deliver it",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 129,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "EASTCAPE TRAINING CENTRE",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 130,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Headboards, Kists, Pedestals, Sleighs available",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 131,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Twee leorlings van dle Hoérskoo! DF, Malherbe in Port Elizabeth, Bjorn Futter (links) en Skmané Gous,",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 132,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "kyk na vertods jaar se inskrpeings vir die Nelson Mancela-Linhrersitert se varaar Lindwyd aangebied word.",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 133,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "bebe wart Foto: VERSHAF",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 134,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Wen met wiskunde en kuns",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 135,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Ine wonder van wiskundige ly ne in die ontwerp van objelebe omring ons elke dag. OF 'n mens now in ‘n besige strast tussen wolkekrabbers. dw af im die veld die skoonheid van",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 136,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 178,
+          "y1": 2586,
+          "x2": 510,
+          "y2": 2716
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "ering hte moedig skunde in die wéreld om raak to sien, bied die G",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 137,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "i io Go van Mboki-sentrum vir Wis kunde-ontwikk (GMME) tans die tweede jaarlikee Wis kunde-Kunskompetisie by die Nelson Mandela-Liniversite it aan, Om deel te neem moet leerlinge teen 3 Mel ‘mn Kure: werk, wal deur wiskunde jein- splreer is, inskrvf.",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 138,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 178,
+          "y1": 2927,
+          "x2": 507,
+          "y2": 3107
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Die kompetisie het sy oor Spromd in die Oos-Kaap en is verlede jaar vir die eerste keer gehou. Die betrokkenheid van verskeie orgunisasies bet dit moontlik gemaak om dit van- jaar landwyd aan te bied.",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 139,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 178,
+          "y1": 3204,
+          "x2": 517,
+          "y2": 3365
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Volgens GMMDMC se kotirdli-",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 140,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "neerder van die kompetisie Carine Steyn, was die kompeti. ghe verlede jaar ‘'n root suk",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 141,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Voriede jaar was reak",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 142,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "in dhe Coe K 1 2 Positiof fant cores areal) at omni die kompetisie ul die ander pro",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 143,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Vinsies wit t Leer inge van ¢",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 144,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "thissen twee | zen is wiskunde in Tens maskte ontwerp on ibe ander in die natwur, Dele mers kan enige vieuele media, soos fotografie, teken, skilder, ef in vermenging vir inskry wings gebruik.",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 145,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 557,
+          "y1": 2867,
+          "x2": 883,
+          "y2": 2995
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "he Henig ni Khe ae soek ons na wiskunde in objekie wat tense ontwerp het. Hier kan beerlinge na wis Kunde in kuns kyk in alledsacg. se objekte soos geboue, brie, yoortuie, simbole, versierings on baie meer,” st Steyn.",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 146,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 554,
+          "y1": 3088,
+          "x2": 891,
+          "y2": 3248
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "“In die natuur-kategorbe moet die Kunswerke die ver- houding tussen wiskunde en die natuur ondersoek. bywoor-",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 147,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "beeld die wiskundige patrone diere of berge.~ lnemer moet ‘in ge skrewe verduidelikir 1 chhe kunswerk verskaf. Dit moet ce a he Kons. riskun",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 148,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 932,
+          "y1": 2586,
+          "x2": 1253,
+          "y2": 2688
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "tweed wees. ag in groott wan Ad tot Ad met \"nh van nie mer as 2 ¢ Die GMMDC se doelwit met dle wiakunde-kunskompetisie is om wetenskap, tegnologie, neenicurswese, Kune en Wis Kunde (Steam) se pew in die kKiaskamer te bevorder Pryse wat op die spel is, sluit in blette en kunsklasse. Die beste Inskirywings sal ook by Oopenhare galerye ultgestal word. Die wenners sal op 17 Mei aangekondhe word on die prysuitdeling volg op 25 Mei. 8 Vir meer inligting verlang. epos mathartarmandelaac 2 of kyk na “Math-Art Compett- tion 2019\" op YouTube.",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 149,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 930,
+          "y1": 2839,
+          "x2": 1259,
+          "y2": 3138
+        },
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Excellent result for Framesby Pupil in National maths-art competition ALAN STRATON ADO YOUR COMMENT",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 150,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "a L = a SE a Winners In a national mathematical art competition include (back, trom let) Paar Gymnasiums Hand Niewwoudt,",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 151,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Redhill High's (Johannesburg) Kiara Knopimacher and Luke Ferreira, Diocesan School for Girls’ (Grahamstown) Erin Powers, Erameshy High's (| ) Kara wan Heerden, Eden College's (Durban) Dotina Chemeva",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 152,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "Sihangan| Matsa trom the University of Johannesburg's Metropolitan Academy, Beaconhyrsi Highrs ()",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 153,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": ") Morgan Durie and (front, from lef) Fish Hoek High's Caillin Wilde, Sir Pierre van Ryneweld High's",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 154,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "(Johannesburg) Busisiwe Mbonani and Eunice Girls’ High's (Bloemfontein) Lauren Dametra.",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 155,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": null,
+        "image_indices": []
+      }
+    },
+    {
+      "type": "Paragraph",
+      "text": "High school pupils fram across South Africa have won accolades far depécting the links between magia and art in unique and wiorand artworks, in the first nationally-ran mathematical art competition The tap-placed winners in lhe competition, run by Neon Mandela University's Goyan Mbeki Malhematics Development Centre (GMMDC), drew their inspiration trom the repeated mathematical pattems evident in ancient Kol and San cave paintings and traditional Zulu beadwork, the mathematical make-up of well-known manmade landmarks, and even the mathematical mysteries of ouler space. Others looked for the malhs-arl connection in majestic animals, including rhinos and cheetahs. “We were thrilled at the high calibre af the 600 entries we received, although @ was a tremendous batile to choose ihe 12 overall winners.” said GMMDC competition ooerdinater Carine Steyn The top 40 entries will be exchibited at the infemational Bridges Conference in Linz, Austria from July 14 to 20, which promotes research and interest in the conmections between maths and art The competion was Open io all high school pupils, who couki enber artworks in two categories “Malhs in mature” or “mathe in manmade designs”. They were adjudicated not only on artistic ment, bul on how they represented the links between mathematics and the arts First in the “mah in nature\" (Grade 10 to 12) category was Lauren Damelia from Eunice Girls High School iin Bloemfontein, whose artwork “Infinity” used the vastness of outer space to represent “the terror of things we don’t know\" [| chose this topic because i's something | often think about. The uncertainty of science and maths beyand space deeply ungettles me, but the best we can do is keep progressing and finding new pattems bo make what was once Scary, normal,\" said Lauren Placed second was Kara van Heenden trom Framesby High in , With her artwork “The functions of a zebra’, with Dorina Chemeva from Eden College in Durban coming third, with her artwork “Tranquility”. The Grade 210 9 winners in the same category were Luke Ferreira from Redhill High in Johannesburg, for his exploration of mathematical pattems in cave art, in his: artwork “Pale Face\", Placed second! and third respectively were Eunice Girs' High's Feng-Mei Chuang for “Romanesco Spiral, and Enn Powers from the Diocesan School for Gins im Grahamstown for “Patterns of the Golden Ratio”. Firs in the Grade 10 to 12 “qlathe in manmade designs\" category was Morgan Qyrrhem fom Beaconhurst High in whose artwork “Hidden Mathematics” showed ‘many ecamples of applying mathematics for our cam benefit”. Her mixed-media artwork showed famous ancient and moder landmarks, from the Pyramids of Giza to Disneyland's famous: castle. In second place was Sibangent Matsa trom the University of Johannesburg's Metropolitan Academy, wha chose to draw afention to the pending extincton of rhinos throwgh poaching, in his pancl sketch of a rhino comstructed out of metal, tiled “Same Difference”. Third place wend to Busisiwe Mbenani from Sir Piene van Bynayeld High (Johannesburg) with her Mdebele-inspired artwork “Thatta The top three winners in the Grade 8 to 9 “qyathe in manmade designs” category were Caitlin Wilde from Fish Hosk high School in Cape Town, for her “Hentage Mandala’, inspired by traditional Zulu pattems, folowed by Kara Knopimactier fram Redhill High lin Johannesburg for te balletinspired \"Geametrics of Dancing’ and Hana Nieuwoudl, from Paarl Gymnasium wilh “Noesivinn’ . showing the links between the speed of a cheelah and the fighter aircral jel named afer i All the winners recebved cash vouchers and book prizes — and Eunice High School im Bloemfontein was recognized for submitting the most entries. The qnaths-art link is part of anew global trend in education called STEAM. the acronym standing for Science. Technology, Engineering, Ar and Mathematics, which GMMDC is promoting in South Afican caesrooms “The Math-Arl competition project adds an innavative educational layer bo our centre's technobogy-blended approach to the teaching and leaning of maths amd science.” said GMMDC director Prof Wemer Olivier. “It aims to develop creative young minds and also build awareness around the skills challenges they wil face in their future careers in the Fourth industrial Revolubon.\"",
+      "metadata": {
+        "page_number": 4,
+        "paragraph_index": 156,
+        "filename": "GMMDC-Media-Articles-2019.pdf",
+        "source": "ocr",
+        "bbox": {
+          "x1": 1393,
+          "y1": 2406,
+          "x2": 2396,
+          "y2": 3419
+        },
+        "image_indices": []
+      }
+    }
+  ],
+  "images": [
+    {
+      "index": 0,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0000_p1.png",
+      "metadata": {
+        "page_number": 1,
+        "width": 670,
+        "height": 294,
+        "bbox": {
+          "x1": 24.07012367248535,
+          "y1": 0.0,
+          "x2": 159.93411254882812,
+          "y2": 59.29974365234375
+        },
+        "associated_paragraph_indices": []
+      }
+    },
+    {
+      "index": 1,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0001_p1.png",
+      "metadata": {
+        "page_number": 1,
+        "width": 704,
+        "height": 138,
+        "bbox": {
+          "x1": 16.06334114074707,
+          "y1": 77.53106689453125,
+          "x2": 290.043212890625,
+          "y2": 131.57640075683594
+        },
+        "associated_paragraph_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0002_p1.png",
+      "metadata": {
+        "page_number": 1,
+        "width": 944,
+        "height": 763,
+        "bbox": {
+          "x1": 16.06334114074707,
+          "y1": 141.11070251464844,
+          "x2": 290.0431823730469,
+          "y2": 362.5464782714844
+        },
+        "associated_paragraph_indices": [
+          19
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0003_p1.png",
+      "metadata": {
+        "page_number": 1,
+        "width": 688,
+        "height": 815,
+        "bbox": {
+          "x1": 15.698530197143555,
+          "y1": 372.48614501953125,
+          "x2": 289.6783447265625,
+          "y2": 697.5087890625
+        },
+        "associated_paragraph_indices": [
+          19,
+          20
+        ]
+      }
+    },
+    {
+      "index": 4,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0004_p1.png",
+      "metadata": {
+        "page_number": 1,
+        "width": 698,
+        "height": 743,
+        "bbox": {
+          "x1": 305.5516662597656,
+          "y1": 224.05291748046875,
+          "x2": 578.7808837890625,
+          "y2": 514.546630859375
+        },
+        "associated_paragraph_indices": [
+          19
+        ]
+      }
+    },
+    {
+      "index": 5,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0005_p1.png",
+      "metadata": {
+        "page_number": 1,
+        "width": 699,
+        "height": 805,
+        "bbox": {
+          "x1": 305.5516662597656,
+          "y1": 521.76318359375,
+          "x2": 582.5340576171875,
+          "y2": 840.78076171875
+        },
+        "associated_paragraph_indices": [
+          20,
+          21
+        ]
+      }
+    },
+    {
+      "index": 6,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0006_p1.png",
+      "metadata": {
+        "page_number": 1,
+        "width": 682,
+        "height": 778,
+        "bbox": {
+          "x1": 19.765153884887695,
+          "y1": 697.2806396484375,
+          "x2": 283.9867858886719,
+          "y2": 998.2831420898438
+        },
+        "associated_paragraph_indices": [
+          21,
+          23
+        ]
+      }
+    },
+    {
+      "index": 7,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0007_p2.png",
+      "metadata": {
+        "page_number": 2,
+        "width": 513,
+        "height": 752,
+        "bbox": {
+          "x1": 36.90309524536133,
+          "y1": 102.43081665039062,
+          "x2": 315.38671875,
+          "y2": 510.0227355957031
+        },
+        "associated_paragraph_indices": [
+          38,
+          54
+        ]
+      }
+    },
+    {
+      "index": 8,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0008_p2.png",
+      "metadata": {
+        "page_number": 2,
+        "width": 504,
+        "height": 692,
+        "bbox": {
+          "x1": 48.84861755371094,
+          "y1": 524.3050537109375,
+          "x2": 306.31463623046875,
+          "y2": 877.10107421875
+        },
+        "associated_paragraph_indices": [
+          55,
+          56,
+          57
+        ]
+      }
+    },
+    {
+      "index": 9,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0009_p2.png",
+      "metadata": {
+        "page_number": 2,
+        "width": 514,
+        "height": 579,
+        "bbox": {
+          "x1": 315.0337219238281,
+          "y1": 255.19195556640625,
+          "x2": 571.7490844726562,
+          "y2": 544.1843872070312
+        },
+        "associated_paragraph_indices": [
+          54
+        ]
+      }
+    },
+    {
+      "index": 10,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0010_p3.png",
+      "metadata": {
+        "page_number": 3,
+        "width": 1164,
+        "height": 663,
+        "bbox": {
+          "x1": 24.07012367248535,
+          "y1": 65.25173950195312,
+          "x2": 567.5260620117188,
+          "y2": 374.5111999511719
+        },
+        "associated_paragraph_indices": [
+          67,
+          68
+        ]
+      }
+    },
+    {
+      "index": 11,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0011_p3.png",
+      "metadata": {
+        "page_number": 3,
+        "width": 1099,
+        "height": 787,
+        "bbox": {
+          "x1": 28.609960556030273,
+          "y1": 398.4326477050781,
+          "x2": 588.5797119140625,
+          "y2": 799.2689208984375
+        },
+        "associated_paragraph_indices": [
+          70
+        ]
+      }
+    },
+    {
+      "index": 12,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0012_p4.png",
+      "metadata": {
+        "page_number": 4,
+        "width": 875,
+        "height": 603,
+        "bbox": {
+          "x1": 56.124202728271484,
+          "y1": 45.4010009765625,
+          "x2": 536.5271606445312,
+          "y2": 376.4287109375
+        },
+        "associated_paragraph_indices": [
+          111,
+          113
+        ]
+      }
+    },
+    {
+      "index": 13,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0013_p4.png",
+      "metadata": {
+        "page_number": 4,
+        "width": 468,
+        "height": 723,
+        "bbox": {
+          "x1": 24.07012367248535,
+          "y1": 376.24029541015625,
+          "x2": 316.8157043457031,
+          "y2": 828.119384765625
+        },
+        "associated_paragraph_indices": [
+          114,
+          116,
+          117,
+          118,
+          120,
+          121,
+          123,
+          125,
+          126,
+          128
+        ]
+      }
+    },
+    {
+      "index": 14,
+      "path": "output\\images\\extracted_images_GMMDC-Media-Articles-2019\\image_0014_p4.png",
+      "metadata": {
+        "page_number": 4,
+        "width": 447,
+        "height": 827,
+        "bbox": {
+          "x1": 329.345947265625,
+          "y1": 376.2403259277344,
+          "x2": 581.5574951171875,
+          "y2": 842.38134765625
+        },
+        "associated_paragraph_indices": [
+          114,
+          116,
+          117,
+          118,
+          120,
+          121,
+          123,
+          125,
+          126,
+          128
+        ]
+      }
+    }
+  ],
+  "full_text": "Govan Mbeki Mathematics Development Centre\n\nProgramme multiplies pupils’ success\n\nNicky Willemse 8 Aug 2019\n\nNCS Mathemati<s and Physi<al S<ien<e Video series\n\nTwo years ago, Queenstown teenager Yamkela Sondlo (17) narrowly scraped through her grade 11\n\nend-of-year exams for maths and science at Nkwanca high school, obtaining 32% and 31% respectively.\n\nBut her final results for grade 12 last year showed a vast improvement. She obtained\n\n64% for maths and 78% for science.\n\nThe turning point for Yamkela came when she was selected to be a participant in a maths and\n\nscience programme using technology and blended learning run by Nelson Mandela University’s Govan Mbeki Mathematics Development Centre.\n\nStatistics recently released by the centre show that she was their most-improved pupil for both maths and science last year.\n\n“The programme helped me so much,” said Yamkela, who lives with her unemployed parents.\n\nBut she is not the only one. Of the 330 pupils who completed the centre’s grade 12 incubation programmes in five mostly rural districts across the Eastern Cape last year 70 improved by more than 10 percentage points in both subjects. And about 80% achieved bachelor’s passes, enabling them to access university studies, despite the meagre resources in rural schools.\n\nThe top-achieving learners received results in the 90s and one pupil, Mvuyisi Njenje, 17, from Attwell Madala High School in Mthatha, achieved 100% for maths.\n\nWhereas Yamkela is taking a gap year, many of her peers from the programme are attending university, including Luphelo Tshemese (17) who passed matric at Hector Petersen High School in King William’s Town with 80% for maths.\n\nHe is now studying civil engineering at Nelson Mandela University. “T was in a position where I thought I was dumb,” said Luphelo. “I learned that maths is not hard. You just need to understand it and practise it. I started to believe in mysel\n\nand put in the effort.”\n\nThe centre’s selection criteria for its programmes is that pupils attend disadvantaged schools, and that they show potential.\n\nNewspaper Articles 2019 Article Link\n\nAt the end of grade 10, Luphelo was selected as a participant in one of the centre’s twa core programmes — the technology-assisted after-school peer support programme — where teachers provide tutoring to small groups of pupils at their own schools, using an offline interactive teaching and learning app called TouchTutor, installed on tablets.\n\nWith improved results at the end of grade 11, he was accepted for the centre’s other core programme, an intensive 17-week incubator school programme run at a central venue on Saturdays, where trained facilitators provide lessons, tutorials, weekly tests and exam revision, all linked to the TouchTutor app.\n\n“T learned to tackle problems in a different way,” said Luphelo. “I learned easy, quick methods for areas I'd been failing [in] for a year ... The tests we wrote on the tablet\n\nmade us able to tackle difficult questions on the exam.”\n\nTouchTutor, which has been developed and fine-tuned over the past 10 years, is an extensive digital maths and science resource that includes narrated video lessons, presentations, past exam papers and memos, self-tests with scoring and feedback, science experiments, calculator support, a glossary of terms supported by graphics in multiple languages and various other interactive features.\n\nThe platform is aligned with the curriculum and assessment policy statement for grades 10 to 12 and workbook guides have also been developed.\n\nAll learners on the programmes receive a tablet with the app, which is loaned to them from February to November, which they can use after school hours as a 24-7 personal tutor.\n\nFor Luphelo, one of 10 children raised by his grandmother, the incubator school programme was not just a place to gain information but a quiet space where he could focus and study. “I came home each Saturday with knowledge,” he said.\n\n“This model has huge value for learners with potential who are prepared to engage with self-directed learning,” said Professor Werner Olivier, director of the Govan Mbeki Mathematics Development Centre.\n\n“Each year, we allow those who have improved by 10% in a year in both maths and science, or achieved distinctions, to keep their tablets. Across our five project regions last year — Port Elizabeth, Duncan Village (East London), Queenstown, Mthatha and King William’s Town — more than 20% of the pupils achieved this and were able to keep their tablets.\n\n“Some individuals showed extraordinary improvement, which emphasises the potential of what can be achieved through our programme.”\n\nThe aim of both the core programmes is to help pupils from disadvantaged backgrounds obtain the marks they need to access higher education and to be successful in their studies.\n\n“We've seen a trend of successes over the past five years. Around 50% of all those in our programmes go to university. We’ve had some going into medicine and actuarial\n\nsciences. Many go into engineering and the sciences,” Olivier said.\n\nIn the Port Elizabeth incubator programme, the centre’s most improved pupil in both maths and science was Onondwa Jantjies (17), who is studying towards her BSc degree in biological sciences at the University of the Witwatersrand, and is hoping to be\n\naccepted into the university’s medicine programme in her third year.\n\n“The incubator school programme improved my chances of getting into Wits and prepared me well for university ... At my school, we had no access to science labs, but I could watch all the experiments on the tablet ... If I didn’t know something, I could just check the tablet,” she said.\n\n“T also love the fact that the programme is so accessible to poor kids. They paid for our transport to the incubator school programme venue and provided food. They made everything so easy for us.”\n\nOlivier would like to see the model scaled up across South Africa — and has recently set up strategic partnerships with the department of basic education in different provinces.\n\nGovan Mbeki Mathematics Development Centre\n\nNewspaper Articles 2019\n\nSaturday school bright sparks soar\n\nBY HERALD REPORTER - 04 NOVEMBER 2019\n\nThe top Grade 12 pupils in Port Elizabeth's Incubator School Programme are, front from left, first- placed Asisipho Ndinisa and her twin sister, third-placed Siphosethu, both from St Thomas Senior Secondary, and second-placed Stephanie Cronje from Linkside High. With them are, back from left, head of corporate social investment at Capitec Foundation, Neptal Khoza, science facilitator Luzuko Jama and maths facilitator Needile Konzana\n\nImage: Michael Sheehan\n\nStarting in February, 480 grade 10 to 12 pupils from 45 schools across the Eastern Cape gave up their Saturdays to improve their maths and physical sciences skills — and it’s paying off.\n\nAmong the Nelson Mandela Bay pupils attending the technology-driven Incubator School Programme (ISP), run annually by Nelson Mandela\n\nUniversity's Govan Mbeki Mathematics Development Centre (GMMDC), 65%\n\nof the Grade 12s showed an improvement in maths and 70% improved in science, when comparing their June results with 2018's November marks.\n\nMore than 60% of the Grade Ils improved in both subjects, while more than 40% of the Grade 10s improved in maths.\n\n“Over the past five years, the ISP has helped thousands of promising Eastern Cape learners improve their marks, and gain access to tertiary education? GMMDC head Prof Werner Olivier said.\n\nThe top-achieving Grade 12 ISP pupil in the province was Tausiqul Islam from Mthatha High School, achieving 93% for maths and 91% for science, while the most improved pupils was Zimbini Ntsula from Ndlovukazi Senior Secondary School in Komani, whose maths and science marks in June\n\nimproved by 22%, compared with last November.\n\nIn addition to the Saturday school lectures, each pupil received an Android tablet to use as a “personal tutor” at home.\n\nThe tablets were loaded with a GMMDC-developed app called TouchTutor®, made up of interactive digital resources, all offline and aligned with the curriculum.\n\nThese included video lessons, PowerPoint presentations, calculator assistance, self-tests with scoring and feedback, old national and provincial exam papers and language support in eight indigenous languages.\n\nAdding to the success of the 2019 ISP was the introduction of student- teacher tutors at the Port Elizabeth and Mthatha ISPs.\n\nThey were trained to use a small new digitalised teaching device called the GammaTutor, which includes the TouchTutor® app, and can be directly plugged into a projector, TV or any digital screen.\n\n“The GammatTutor added to this year’s ISP success, Olivier said.\n\n“We are looking forward to rolling out this new mobile teaching device to other provinces, to empower teachers to engage in teaching practices geared towards 21st century learners”\n\nThe tutors, all final-year education students at Nelson Mandela and Walter Sisulu universities, used the GammaTutor during 90-minute midweek tutorials with small groups of Grade 10 pupils at the participating schools, helping them work through challenges and deepen their understanding of maths.\n\nNMU student teacher Monique Paulse, who tutored at Sanctor Secondary School in the Bay, said the tutorials provided an opportunity for pupils to ask questions and work through topics they didn't understand in class.\n\n“The GammatTutor helped me a lot, as we were able to find different examples on different topics quickly and easily”\n\nNeptal Khoza, head of Capitec Foundation, which sponsored the Saturday school programme, said: “Capitec Foundation has adopted a teacher development approach as part of our strategy.\n\n“It was therefore fitting that we infuse this into the ISP programme, in partnership with the GMMDC.\n\n“The aim is to support future teachers with much-needed teaching experience and access to 2Ist century teaching, while assisting high-school pupils with extra tutorials to help them perform better in maths”\n\nHe said the ISP programme had helped pupils to “learn for understanding and not just to memorise”\n\n“The TouchTutor® platform enables pupils to access content remotely any time, anywhere and without data costs. It enables them to learn at their own pace”\n\nGovan Mbeki Mathematics N ewspa per Articles 201 9\n\nGot a story? Phone our news desk : (041) 5047324 [y) Cormac wth son Tete news\n\nCreate artwork inspired by mathematics\n\n@ High school kids from across SA shine in unique NMU competition Bright sparks prove\n\nes : : Learners from Creative Clubs, a project run by the University of the Free State's Social maths 1S an art form ewer i Te ee sets create artwork using mathematics as part of a national Math-Art FNB’s brief ‘blessing’ upsets clients\n\nTo encourage learners to recognise mathematics in the world around them and bring it to life, the ete Reporter ara fincin he watha ine ey were ankce Gi Hgts of Danciegand Pad Grn\n\ntoc -pesslwit-coage | feguiclChagtrler i satersfacoNeurett, | town Pons secs huse beentenibed. — ‘Seigs hen FL scnetirgstmndudtickwt GYAN Mbeki Mathematics Development Centre (GMMDC) at Nelson Mandela University, Port Heched pplatiumaros eastern Deming maxueSped.cadten Rar win Npsbeet wig “The incrvet buavers, “So Pha acdedw Mes ee severda Now Ps fo i s launc ati : it s mus i , Siow'worstatainterde, faneeGeebiyhsctost, —uerManondsh Doon” Bakntoreweetryenders, | FntNatoma Rank FB com wer dure ied eb card wih ETON SUNS Sudeahome Bizabeth, has launched 2 national Math-Art Competition, where entrants must submit artworks putirg the Arka bettewen, Moerubsesen wom met Sete fee Gem for Pores of cheetah ara! the fighter pt femal co Wedreutay chat x trammactuma for pectuaen” “Wrut an | eppoued todo inspired by mathematics. outanetnieist catgactriceneel \"Fetinaegeée wt? “Al@ewanmreated | wssmecstomer’ omen Sinereapelogisto ee wan w pet arse The University of the Free State (UFS) and Curro Schools are some of the many partners in the tscadyeamaiemaid — Gingsvederttnew snstsinmarnase dein cahvoutmcrsendbook pis | “weaned Gatbeow- impacted coon ot: cncoummnens ead Math-Art Competition. Bloemfontein learners can drop their entries at the Social Responsibility compres Tee ea uprbcwek steguywetioge Dur canitankelgicen, | nabaanasormnccteu hay epi wektomdal Avomad saa “Treryenels Enterprises’ offices at the UFS’s South Campus. Trregpetvinentn bemmiagionmis sane Beemhan Seasteadremocmngshed | coneen-wcnnanen suade yt bes ent money tom FN 4 at the -\n\nte coraptiben reabyickon Soeur Lowen tetloaion veertech Sr sheeting te eaten saan Spey ad retond peng ey The unique competition is open to learners from Grade & to 12, who can choose between two Mandkts Urevenétys Gowan “The uncertainty of schence Hidden Methernaics showed: Al de cries are os dagtey ‘i - i i i - it Mandela Levent i a hh cts categories ~ mathematics in manmade designs, or nature ~ and they can use any visual medium, reaCate Geovecr ag Gogyenencmetathe — susctercuromubencit. Menopelian At cay a including photography, drawing, painting, collage or mixed media. Ssutentespentate tattenabanppe ‘er legendas Pot Chale wnat eet + : ’ } ics in desi\n\nseen cenpeentent tp memumeses = fea amounts ‘In the ‘manmade’ category, we are looking for mathematics in designs created by humans. Here,\n\nand San core GD centro wahbida teens ‘We were thrilled at PM™Ui-ofGizaw Dancy —_ a Badges Correnor in Lina\n\nlearners can interpret the theme of art and maths in everyday objects such as buildings, bridges, vehices, logos, cultural symbols, decorations, and many more,” said GMMDC competition\n\nas we as the tat und scaste from bay 149628 .\n\nenurtaal compenison ctv the be calibre of ‘Second wes Sibanges! Mar: Stach peoncaes esearch and coordinator, Carine Steyn.\n\ntaown mas-rrade lanérarta the GOO entries We sa.cd the Urmersty offehian- arrest im the comnerrinens be . , Sonchi\n\nqnscunhenahenstal received? caughManpinasicah- ono aahenain onsen In the ‘nature’ category, artworks must explore the relationship between nature and maths, for\n\niyderes of over act ‘oun ty, whechose to drew stn The maths art beak is pat of example, mathematical patterns in flowers, animals or mountains.” —_ Siieottogn tenting seneskeaston Oe Each participant will also have to provide a written explanation outlining the link between their aceon cba aan Mipecituire cfartaet \" sscoymta'Sceace Bete artworks and maths, by describing which mathematical concept they have used, how their artwork etches aemtteiegnen ps ciaiedetct eel ted eysmeing Aenea | SERS links to the selected category, and which sources they used to design their work. nprcalwectie dbewis Sanna \"Thedpucewer Rass Genbasrpomengusaan | Sonar Each submitted artwork must be two-dimensional and A4 to A2 in size, with relief work no more Proeaedttonhiemess \"Parernndwaskanvae eMurcofsrPare ran Mite cram than 2.cm high. reveal gh khmestary Corp rece Po\n\nMishertudtceirapend n> WirserOnwer The ener Competition prizes, including tablets, cell phones and art classes, will be awarded to the top-placed\n\nme maton vse oe : Somaaid Tieupereviacnin aibsatinantechestend | Sele candidates. . . . .\n\nThecompedtion was opes College. Durban came third «he grade $109-raths in man lnyer Wo cur ceemre’s techs bJ The competition has opened in March and closes on May 3, with the top entries to be displayed at\n\nwad high school papi who with her antwork Turequlty made designs antegury were blended approach tothe wah | Same ublic art galleries. ‘sna eater aorta ts Theprade ws Pwheerin Callin Whe cfTon Mock garailearagof matin || Seat DUBE art 9 : : . cogetn \"ata ete'or ecapeyemtanrtorees Wgithed Gye Tamts ere a Winners will be announced on May 17, with a prize-giving taking place in Port Elizabeth on May 25. “Inyunrenbigsien tupQrttgteatone! tgentibeallepsinen, yuanguindssadboltonere For more information, contact: mathart@mandela.ac.za or watch the promotional video on artisdemerh tone turalsoon rashemuricalpacerms nce Sthowed by Kora Knope Tew sreund toe shits chal The YouTube: https://www.youtube.com/watch?v=rtKxp8rOr70 (keywords: Math-Art Competition ture they eeprewerand the Beks art hinamwcrt Pale Face muxcterr,of Re@hil High for lengespowserted by the Fowrth | Hheradl 2019) Cemoeninaerarmaniae 'Seamdandiuedompes Gbehettepind Geenaria teleetlurmnamcn” .\n\nTomorrow’s teachers use new technology to tutor maths and science\n\nBy Nieky Willemse - Feb 12,2019\n\nFinal-year education students in Nelson Mandela Bay and Mthatha are learning how to use cutting-edge technology in real-life teaching situations.\n\nThe prospective teachers from Nelson Mandela and Walter Sisulu universities are the very first “student tutors” in a new, extended technology-blended maths and science Incubator School Programme (ISP), which over the past five years has helped thousands of promising Eastern Cape learners improve their marks, and gain access to tertiary education.\n\nIf it is successful, the newly-launched “ISP and Student Teacher Tutor Programme” - piloted in Nelson Mandela Bay and Mthatha at the weekend — will be extended to other provinces.\n\nNelson Mandela University’s Govan Mbeki Mathematics Development Centre (GMMDC) - with sponsorship from Capitec Foundation - is running the curriculum-linked programme in the two cities, providing 250 selected Grade 10| to 12 learners with extra tuition through the 16-week Saturday programme.\n\nEach learner will also receive a 7\" Android tablet as a “personal tutor”. loaded with a GMMDC-developed app called TouchTutor®. which is crammed full of interactive curriculum-aligned digital resources, in the form of video lessons, PowerPoint presentations, calculator assistance, self-tests with scoring and feedback, old national and provincial exam papers and multi-language support in eight indigenous languages.\n\nAnd they will have the added benefit of the “student tutors”, who will provide mid-week tutoring with small groups of ——-‘“#4Son Mandeia University final-year education student Frans Louw discusses maths and science challenges with s Grade 10 learners at their respective schools, using high-tech approaches to help the learners work through maths and the learners he will be tutoring (from left) Carla Michaels, 16, Kayla Prins, 15, and Méble Loyd, 15, all from Linksid science challenges and deepen their understanding of the subjects.\n\nThe student teachers are all being trained to use a small new digitalised teaching device - called the Gamma Tutor - which includes the TouchTutor® app, and can be plugged directly into a projector, TV or any digital screen. This dongle- like mini-computer without a screen, which will soon be officially released by GMMDC as anew mobile teaching device for school classrooms, will empower the student teachers to engage in professional teaching practices, geared towards 21\" century learners.\n\nTomorrow's teachers use new technology to tutor maths and science\n\nAt the Nelson Mandela Bay launch of the new programme on Saturday (9 February). held at the Eastcape Training Centre (ETC) in Stryandale, the student tutors, all fourth-year education students from Nelson Mandela University, couldn't wait to get started.\n\n“think the learners will appreciate it a lot, having someone sit next to them, helping them to see where they're stuck,” said student tutor Frans Louw. “It will also help us to grow as teachers - especially learning how to incorporate\n\ntechnology with teaching,\" Prof Werner Olivier (right), director of the Govan Mbeki Mathematics Development Gentre at Nelson Mandela Univ “There are different types of learners,\" said fellow tutor Monique Paulse. teaches final-pear education students (from left) Bangiwe Mopalala and Frans Louw, how to use an innovative ma “I'm looking forward to learning how to adjust to learners who are slower and faster [to catch on], Not all learners will teaching device — called the Gamma Tutor — to tutor learners in maths and selence.\n\nunderstand the first time, so you need to try different techniques.”\n\n“It’s an opportunity to stay up to date with the content.” said Danielle du Plessis,\n\n“By tutoring, we'll be helping ourselves to learn the content and bring this across to the learners.\"\n\n“Someone once said: ‘When you teach, you learn.’ I believe this new tutor component of the ISP programme will help me to learn while I'm teaching,” said Anita Rossouw.\n\n“In this crucial year before getting my own classes, it will help me to develop to the fullest I possibly can.”\n\nGMMDC director Prof Werner Olivier said: “This new programme - and the new technology - is a way to empower teachers to deal with real challenges, with the assistance of very modern mobile teaching tools and resources, which have been researched and developed over the past 10 years.\n\n“It could impact the course of their professional careers as teachers.”\n\nNeptal Khoza, Head of Capitec Foundation, said: “We are excited about the launch of this programme in Port Elizabeth and Mthatha. By offering university teaching students an opportunity to harness their teaching/tutoring skills, we enable them access to 21 century teaching and practical experience. We believe it will improve the maths and science performance of all learners participating in the programme.\" ; : ; ; ; Learners in Nelson Mandela Bay are hopeful the programme will boost their results. Nelson Mandela University final-year students (from left) Monique Paulse. Danielle du Plessis and Anite Rossouw a Sanetor High Grade 10 learner Codi Ownhouse, 15, said: “Maths and science are a big struggle. I'm hoping this looking forward to boosting learners’ maths and sefence skills— along with their oun content knawledge in the sud programme will help me alot.” By using new teaching technalogy.\n\n“I'm expecting higher marks and hope to learn more and know more,” said Sinazo Kafatyi, 15, a Grade 10 learner from\n\nGrade 12 Gelvan High pupil Ruyyellen Jacobs, 17, said attending the traditional [SP over the past two years had helped\n\nhis maths mark climb from 4744 to 854%. “I'm looking forward to this year’s ISP - I'm aiming for level 7 (over 80%) in\n\nGovan Mbeki Mathematics Development Centre empowering young minds\n\nNewspaper Articles 2019\n\nTom ‘ Crrow’s teac hers use new tech\n\nFINAL Year education nhc dela Bay and Mthatha Cutting-edge tects\n\nStudents in Nelson Man\n\nlearners wil] = apfitect 7 are learning how to use tnt it ket,\n\na next te ther, helping them to see whare\n\nUstlons, nology in realise me har te running the vine stuck J F will nso help us to-erage, * Dr cially learnp us tomchers, eape- The prospective teachers from Nelson Man with iachienal to incorparale techeakgey\n\np= — Walter Sisulu universitie\n\nident tutors ina new Poche Min nded maths and scien ubator School TTorramme (ISP), which, ove : pas\n\nrs, has helped fhousendect piece ee = Cape leuners improve their ma te Hn acess to tertiary education.\n\nit is sucmesafial 2 newly-launched “ISP\n\n“There are ¢tifferent learners,\" fellow tutor Monigees Pete a ood ae ward to Iearmilng: how to aejuse icienmen eat are slower and faster [to catch On]. Not all learners will understand the first time, 6 ras feed to try different techrsiry .\n\nnied technolo- personal tutor, Joa\n\nGMMDC-leveloped Which is pate lum-aligned digital f oy ideo lessons, PowerPotnt presentad calcu and = ister assistance, selests with rl aru!\n\nfeedback, old national and provincial exarn pe pers and multilingual Suppor in eight indie\n\nchallenges, with the\n\nbe extended te other (Aur Programme” wall nous languages ra ee oki Horward to Chis your's BS. Pa ee a Pov Line : and Pesourers, h _ ing for lewel Tig a inces. Student tutor, Frans Louw sald, “I think the searched uu Gevelcyed ov ateael Svensk said dace. Hamer :\n\nvow dream it, we deliver it\n\nEASTCAPE TRAINING CENTRE\n\nHeadboards, Kists, Pedestals, Sleighs available\n\nTwee leorlings van dle Hoérskoo! DF, Malherbe in Port Elizabeth, Bjorn Futter (links) en Skmané Gous,\n\nkyk na vertods jaar se inskrpeings vir die Nelson Mancela-Linhrersitert se varaar Lindwyd aangebied word.\n\nbebe wart Foto: VERSHAF\n\nWen met wiskunde en kuns\n\nIne wonder van wiskundige ly ne in die ontwerp van objelebe omring ons elke dag. OF 'n mens now in ‘n besige strast tussen wolkekrabbers. dw af im die veld die skoonheid van\n\nering hte moedig skunde in die wéreld om raak to sien, bied die G\n\ni io Go van Mboki-sentrum vir Wis kunde-ontwikk (GMME) tans die tweede jaarlikee Wis kunde-Kunskompetisie by die Nelson Mandela-Liniversite it aan, Om deel te neem moet leerlinge teen 3 Mel ‘mn Kure: werk, wal deur wiskunde jein- splreer is, inskrvf.\n\nDie kompetisie het sy oor Spromd in die Oos-Kaap en is verlede jaar vir die eerste keer gehou. Die betrokkenheid van verskeie orgunisasies bet dit moontlik gemaak om dit van- jaar landwyd aan te bied.\n\nVolgens GMMDMC se kotirdli-\n\nneerder van die kompetisie Carine Steyn, was die kompeti. ghe verlede jaar ‘'n root suk\n\nVoriede jaar was reak\n\nin dhe Coe K 1 2 Positiof fant cores areal) at omni die kompetisie ul die ander pro\n\nVinsies wit t Leer inge van ¢\n\nthissen twee | zen is wiskunde in Tens maskte ontwerp on ibe ander in die natwur, Dele mers kan enige vieuele media, soos fotografie, teken, skilder, ef in vermenging vir inskry wings gebruik.\n\nhe Henig ni Khe ae soek ons na wiskunde in objekie wat tense ontwerp het. Hier kan beerlinge na wis Kunde in kuns kyk in alledsacg. se objekte soos geboue, brie, yoortuie, simbole, versierings on baie meer,” st Steyn.\n\n“In die natuur-kategorbe moet die Kunswerke die ver- houding tussen wiskunde en die natuur ondersoek. bywoor-\n\nbeeld die wiskundige patrone diere of berge.~ lnemer moet ‘in ge skrewe verduidelikir 1 chhe kunswerk verskaf. Dit moet ce a he Kons. riskun\n\ntweed wees. ag in groott wan Ad tot Ad met \"nh van nie mer as 2 ¢ Die GMMDC se doelwit met dle wiakunde-kunskompetisie is om wetenskap, tegnologie, neenicurswese, Kune en Wis Kunde (Steam) se pew in die kKiaskamer te bevorder Pryse wat op die spel is, sluit in blette en kunsklasse. Die beste Inskirywings sal ook by Oopenhare galerye ultgestal word. Die wenners sal op 17 Mei aangekondhe word on die prysuitdeling volg op 25 Mei. 8 Vir meer inligting verlang. epos mathartarmandelaac 2 of kyk na “Math-Art Compett- tion 2019\" op YouTube.\n\nExcellent result for Framesby Pupil in National maths-art competition ALAN STRATON ADO YOUR COMMENT\n\na L = a SE a Winners In a national mathematical art competition include (back, trom let) Paar Gymnasiums Hand Niewwoudt,\n\nRedhill High's (Johannesburg) Kiara Knopimacher and Luke Ferreira, Diocesan School for Girls’ (Grahamstown) Erin Powers, Erameshy High's (| ) Kara wan Heerden, Eden College's (Durban) Dotina Chemeva\n\nSihangan| Matsa trom the University of Johannesburg's Metropolitan Academy, Beaconhyrsi Highrs ()\n\n) Morgan Durie and (front, from lef) Fish Hoek High's Caillin Wilde, Sir Pierre van Ryneweld High's\n\n(Johannesburg) Busisiwe Mbonani and Eunice Girls’ High's (Bloemfontein) Lauren Dametra.\n\nHigh school pupils fram across South Africa have won accolades far depécting the links between magia and art in unique and wiorand artworks, in the first nationally-ran mathematical art competition The tap-placed winners in lhe competition, run by Neon Mandela University's Goyan Mbeki Malhematics Development Centre (GMMDC), drew their inspiration trom the repeated mathematical pattems evident in ancient Kol and San cave paintings and traditional Zulu beadwork, the mathematical make-up of well-known manmade landmarks, and even the mathematical mysteries of ouler space. Others looked for the malhs-arl connection in majestic animals, including rhinos and cheetahs. “We were thrilled at the high calibre af the 600 entries we received, although @ was a tremendous batile to choose ihe 12 overall winners.” said GMMDC competition ooerdinater Carine Steyn The top 40 entries will be exchibited at the infemational Bridges Conference in Linz, Austria from July 14 to 20, which promotes research and interest in the conmections between maths and art The competion was Open io all high school pupils, who couki enber artworks in two categories “Malhs in mature” or “mathe in manmade designs”. They were adjudicated not only on artistic ment, bul on how they represented the links between mathematics and the arts First in the “mah in nature\" (Grade 10 to 12) category was Lauren Damelia from Eunice Girls High School iin Bloemfontein, whose artwork “Infinity” used the vastness of outer space to represent “the terror of things we don’t know\" [| chose this topic because i's something | often think about. The uncertainty of science and maths beyand space deeply ungettles me, but the best we can do is keep progressing and finding new pattems bo make what was once Scary, normal,\" said Lauren Placed second was Kara van Heenden trom Framesby High in , With her artwork “The functions of a zebra’, with Dorina Chemeva from Eden College in Durban coming third, with her artwork “Tranquility”. The Grade 210 9 winners in the same category were Luke Ferreira from Redhill High in Johannesburg, for his exploration of mathematical pattems in cave art, in his: artwork “Pale Face\", Placed second! and third respectively were Eunice Girs' High's Feng-Mei Chuang for “Romanesco Spiral, and Enn Powers from the Diocesan School for Gins im Grahamstown for “Patterns of the Golden Ratio”. Firs in the Grade 10 to 12 “qlathe in manmade designs\" category was Morgan Qyrrhem fom Beaconhurst High in whose artwork “Hidden Mathematics” showed ‘many ecamples of applying mathematics for our cam benefit”. Her mixed-media artwork showed famous ancient and moder landmarks, from the Pyramids of Giza to Disneyland's famous: castle. In second place was Sibangent Matsa trom the University of Johannesburg's Metropolitan Academy, wha chose to draw afention to the pending extincton of rhinos throwgh poaching, in his pancl sketch of a rhino comstructed out of metal, tiled “Same Difference”. Third place wend to Busisiwe Mbenani from Sir Piene van Bynayeld High (Johannesburg) with her Mdebele-inspired artwork “Thatta The top three winners in the Grade 8 to 9 “qyathe in manmade designs” category were Caitlin Wilde from Fish Hosk high School in Cape Town, for her “Hentage Mandala’, inspired by traditional Zulu pattems, folowed by Kara Knopimactier fram Redhill High lin Johannesburg for te balletinspired \"Geametrics of Dancing’ and Hana Nieuwoudl, from Paarl Gymnasium wilh “Noesivinn’ . showing the links between the speed of a cheelah and the fighter aircral jel named afer i All the winners recebved cash vouchers and book prizes — and Eunice High School im Bloemfontein was recognized for submitting the most entries. The qnaths-art link is part of anew global trend in education called STEAM. the acronym standing for Science. Technology, Engineering, Ar and Mathematics, which GMMDC is promoting in South Afican caesrooms “The Math-Arl competition project adds an innavative educational layer bo our centre's technobogy-blended approach to the teaching and leaning of maths amd science.” said GMMDC director Prof Wemer Olivier. “It aims to develop creative young minds and also build awareness around the skills challenges they wil face in their future careers in the Fourth industrial Revolubon.\"",
+  "ocr_used": true,
+  "total_paragraphs": 157,
+  "total_images": 15,
+  "paragraphs_with_image": 25
+}

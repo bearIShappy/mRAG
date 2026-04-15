@@ -20,6 +20,7 @@ import io
 import json
 import base64
 import re
+import hashlib
 from pathlib import Path
 from typing import Optional
 
@@ -159,7 +160,7 @@ class ScannedPDFOCR:
         # Removed static folder creation here
 
     def extract(self, file_path: str) -> dict:
-        print(f"   [OCR] Scanned PDF — rasterising at {self.dpi} DPI")
+        print(f" [OCR] Scanned PDF — rasterising at {self.dpi} DPI")
         
         # 1. SET UP THE DIRECTORY FIRST
         file_name = Path(file_path).stem 
@@ -218,7 +219,7 @@ class ScannedPDFOCR:
         print()
         return text_elements
 
-    @staticmethod
+    @staticmethod  #when a function logically belongs to a class but does not need access to self or cls
     def _compute_paragraph_bboxes(paragraphs: list, tsv_data: dict) -> dict:
         bboxes = {}
         words  = [w.strip() for w in tsv_data.get("text", [])]
@@ -256,6 +257,10 @@ class ScannedPDFOCR:
         doc    = fitz.open(file_path)
         idx    = 0
 
+        # Track content hashes so repeated images (e.g. logo on every page)
+        # are saved to disk once and skipped on subsequent pages.
+        seen_hashes: dict = {}   # md5_hex → first image index that had it
+
         for page_num, page in enumerate(doc, start=1):
             for img_info in page.get_images(full=True):
                 xref = img_info[0]
@@ -265,12 +270,23 @@ class ScannedPDFOCR:
                         pix = fitz.Pixmap(fitz.csRGB, pix)
                     if pix.width < 100 or pix.height < 100:
                         continue
-                        
-                    # Changed to use current_output_dir
+
+                    # ── Dedup: hash raw pixel bytes before saving ──────────
+                    raw_bytes  = pix.tobytes("png")
+                    img_hash   = hashlib.md5(raw_bytes).hexdigest()
+
+                    if img_hash in seen_hashes:
+                        print(f"   [Parser] Duplicate image skipped on page {page_num} "
+                              f"(same as image #{seen_hashes[img_hash]})")
+                        continue   # do NOT save to disk, do NOT add to list
+                    seen_hashes[img_hash] = idx
+                    # ──────────────────────────────────────────────────────
+
                     out_path = os.path.join(
                         self.current_output_dir, f"image_{idx:04d}_p{page_num}.png"
                     )
-                    pix.save(out_path)
+                    # Write the already-computed bytes (avoids second encode)
+                    Path(out_path).write_bytes(raw_bytes)
 
                     img_rects = page.get_image_rects(xref)
                     bbox      = _fitz_bbox(img_rects[0]) if img_rects else None
@@ -395,7 +411,7 @@ class DocumentParser:
         self,
         extract_images:      bool          = True,
         image_output_dir:    Optional[str] = None,
-        strategy:            str           = "hi_res",
+        strategy:            str           = "fast", # "fast" | "hi_res" (Unstructured PDF partitioning strategy)
         languages:           list          = None,
         ocr_dpi:             int           = 300,
         force_ocr:           bool          = False,
@@ -522,9 +538,9 @@ if __name__ == "__main__":
     import sys
 
     if len(sys.argv) < 2:
-        file_path = r"D:\Jasleen space\mRAG\documents\GMMDC-Media-Articles-2019.pdf"
-        output_path = "output/parsed/GMMDC-Media-Articles-2019_parsed.json"
-        force_ocr = False
+        file_path = r"documents\GMMDC-Media-Articles-2019.pdf"
+        output_path = r"output/parsed/GMMDC-Media-Articles-2019.json"
+        force_ocr = True
     else:
         file_path = sys.argv[1]
         output_path = None
@@ -537,7 +553,7 @@ if __name__ == "__main__":
     parser = DocumentParser(
         extract_images=True,
         image_output_dir="output/images", # Set to output/images base
-        strategy="hi_res",
+        strategy="fast",
         ocr_dpi=300,
         force_ocr=force_ocr,
         min_paragraph_chars=20,

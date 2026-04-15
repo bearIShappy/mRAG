@@ -1,4 +1,20 @@
+# Ignore models
+models/
+logs/
+
+
+# Python
 __pycache__/
 *.pyc
 .env/
-venv/   
+venv/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+docker-compose.yml
+src.zip
